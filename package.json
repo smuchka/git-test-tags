@@ -7,5 +7,8 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "atob": "^2.1.1"
+  }
 }
