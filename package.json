@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "atob": "^2.1.1"
+    "atob": "^2.1.1",
+    "lodash": "^4.17.10"
   }
 }
